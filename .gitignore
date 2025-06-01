@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS Finder metadata
+.DS_Store
+
+# Environment / IDE folders
+.env
+.vscode/
+.idea/
+
+# PyCharm
+*.iml
+
+# Python cache
+*.pyc
+__init__.pyc
